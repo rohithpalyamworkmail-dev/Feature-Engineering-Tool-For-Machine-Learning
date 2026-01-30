@@ -5,6 +5,7 @@ import numpy as np
 from feature_engine.selection import *
 from sklearn.ensemble import *
 from feature_engine.selection import *
+from sklearn.experimental import enable_halving_search_cv
 if "count" not in st.session_state:
   st.session_state['count']=0
 def drop_features(keyy,data):
