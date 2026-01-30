@@ -1,2 +1,13 @@
-# Feature-Engineering-Tool-For-Machine-Learning
-Feature Engineering Tool for Machine Learning simplifies transforming raw data into meaningful features using low-code analytical workflows. It helps users handle missing values, encode categories, scale variables, and create model-ready datasets efficiently, reducing coding effort and enabling stronger analytical focus during preprocessing.
+---
+title: No Code Platform To Perform Feature Engineering
+emoji: 👁
+colorFrom: pink
+colorTo: red
+sdk: streamlit
+sdk_version: 1.44.1
+app_file: app.py
+pinned: false
+short_description: It is a no code platform built using python
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
